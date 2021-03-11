@@ -21,3 +21,6 @@ web/index.php
 web/robots.txt
 web/update.php
 web/web.config
+
+composer.lock
+
